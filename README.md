@@ -26,7 +26,7 @@ R, dplyr, ggplot2, readr, stringr
 
 ```r
 install.packages(c("dplyr", "readr", "stringr", "ggplot2"))
-source("analisis_empleabilidad_junior.R")
+source("analisis_empleabilidad.R")
 ```
 
 Genera 3 gráficos en PNG: `grafico_experiencia.png`, `grafico_cloud_contenedores.png`, `grafico_paises.png`.
