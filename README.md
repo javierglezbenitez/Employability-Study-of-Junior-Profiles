@@ -29,7 +29,7 @@ install.packages(c("dplyr", "readr", "stringr", "ggplot2"))
 source("analisis_empleabilidad.R")
 ```
 
-Genera 3 gráficos en PNG: `grafico_experiencia.png`, `grafico_cloud_contenedores.png`, `grafico_paises.png`.
+Genera 4 gráficos en PNG: `grafico_experiencia.png`, `grafico_cloud_contenedores.png`, `grafico_paises.png` , `grafico_skills.png`.
 
 ## Autor
 
