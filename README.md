@@ -32,4 +32,4 @@ Genera 4 gráficos en PNG: `grafico_experiencia.png`, `grafico_cloud_contenedore
 
 ## Autor
 
-Javier González Benítez — [LinkedIn](https://www.linkedin.com/in/javier-gonzalez-benitez-78052838b/)
+Javier González Benítez — [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7497956310492155904/)
