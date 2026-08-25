@@ -15,8 +15,7 @@ Encuesta de Stack Overflow Developer Survey, con variables como edad, nivel educ
 1. **Experiencia**: el salto más grande en probabilidad de empleo ocurre entre 0 y 2 años de experiencia profesional; después la curva se aplana.
 2. **Amplitud de stack**: los juniors empleados dominan de media casi el doble de tecnologías (16.6 vs 8.5) que los que no están empleados.
 3. **Cloud + contenedores**: quienes dominan tanto tecnologías cloud (AWS/Azure/GCP) como contenedores (Docker/Kubernetes) tienen casi el doble de probabilidad de estar empleados (62.8%) frente a quienes no dominan ninguna de las dos (34.8%).
-4. **Nivel educativo**: entre juniors, tener un Máster se correlaciona con una tasa de empleo *menor* que tener solo el grado — posiblemente por seguir en búsqueda justo tras finalizar los estudios.
-5. **España vs otros países**: España presenta la tasa de empleo junior más alta entre los 10 países con más muestra en el dataset (55.9%), por encima de EEUU, Reino Unido o Alemania.
+4. **España vs otros países**: España presenta la tasa de empleo junior más alta entre los 10 países con más muestra en el dataset (55.9%), por encima de EEUU, Reino Unido o Alemania.
 
 ## Tecnologías
 
